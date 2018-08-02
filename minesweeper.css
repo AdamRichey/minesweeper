@@ -1,0 +1,16 @@
+#x button{
+    height: 5vh;
+    width: 5vh;
+}
+body{
+    text-align: center;
+    background: linear-gradient(to right, black, #01008a, black); 
+    color: black;
+    font-family: cursive;
+    color: white;
+    height: auto;
+    width: auto;
+}
+img{
+    height: 5vh;
+}
